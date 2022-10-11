@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm 刘炎彬(Jermy) 👋 </h1>
+<h3 align="center">🚀 strive to be a fullstack devlover 🚀</h3>
 
-<!--
-**lyb2333/lyb2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at LiveRamp
+- 🌱 I’m currently learning docker
+- 👯 I’m looking to collaborate on MERN stack projects
+- 💬 Ask me about Web dev related Stuff
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](jermy.liu@liveramp.com)
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Statistics About Me
+![Jermy's github stats](https://github-readme-stats.vercel.app/api?username=lyb2333&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
+⭐️ From [Jermy](https://github.com/lyb2333)
+
+![LiveRamp](https://lh5.googleusercontent.com/b_24zwCDNU6UVnUmmbVbY9gA2I65FldCyS29OtGOI_aM7gCbCtDJ59kxg5wyuSyaIYDia6UyVocW0kfTC08erH4R0sLTBAAvm90b5GCdN2Zf48JqZNSFlrN8DyIkU_bvLASq2Tg2)
