@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm 刘炎彬(Jermy) 👋 </h1>
-<h3 align="center">🚀 strive to be a fullstack devlover 🚀</h3>
+<h3 align="center">🚀 strive to be a fullstack developer 🚀</h3>
 
 - 🔭 I’m currently working at LiveRamp
 - 🌱 I’m currently learning docker
