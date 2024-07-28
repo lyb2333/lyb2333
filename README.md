@@ -1,9 +1,8 @@
-<h1 align="center"> Hello, I'm 刘炎彬(Jermy) 👋 </h1>
+<h1 align="center"> Hello, I'm 刘炎彬(Jeremy) 👋 </h1>
 <h3 align="center">🚀 strive to be a fullstack developer 🚀</h3>
 
 - 🔭 I’m currently working at LiveRamp
-- 🌱 I’m currently learning docker
-- 👯 I’m looking to collaborate on MERN stack projects
+- 🌱 I’m currently learning Go programming language
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](jermy.liu@liveramp.com)
 
